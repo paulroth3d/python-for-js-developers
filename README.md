@@ -8,9 +8,9 @@ Notebooks are **readable documents** that include **text** and **code** to descr
 
 # How
 
-[Come Read the Document Here]()
+[Come Read the Document Here](https://mybinder.org/v2/gh/paulroth3d/python-for-js-developers/HEAD?filepath=p4js.ipynb)
 
-@TODO - link to mybinder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paulroth3d/python-for-js-developers/HEAD?filepath=p4js.ipynb)
 
 # Why
 
