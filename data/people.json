@@ -1,0 +1,36 @@
+[{
+  "id": 1,
+  "first_name": "Phillipe",
+  "last_name": "Castano",
+  "email": "pcastano0@virginia.edu",
+  "gender": "Bigender",
+  "ip_address": "13.234.76.97"
+}, {
+  "id": 2,
+  "first_name": "Aggy",
+  "last_name": "Sainte Paul",
+  "email": "asaintepaul1@slashdot.org",
+  "gender": "Bigender",
+  "ip_address": "229.30.233.138"
+}, {
+  "id": 3,
+  "first_name": "Devin",
+  "last_name": "Stapford",
+  "email": "dstapford2@cpanel.net",
+  "gender": "Non-binary",
+  "ip_address": "36.123.86.249"
+}, {
+  "id": 4,
+  "first_name": "Blondy",
+  "last_name": "Pozzi",
+  "email": "bpozzi3@comcast.net",
+  "gender": "Male",
+  "ip_address": "36.139.229.209"
+}, {
+  "id": 5,
+  "first_name": "Lois",
+  "last_name": "Elfe",
+  "email": "lelfe4@moonfruit.com",
+  "gender": "Polygender",
+  "ip_address": "62.51.58.77"
+}]
